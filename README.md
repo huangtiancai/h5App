@@ -2,9 +2,9 @@
 
 基于 vue-cli3.0+webpack 4+vant ui + sass+ rem 适配方案+axios 封装，构建手机端模板脚手架
 
-[关于项目介绍](https://juejin.im/post/5cfefc73f265da1bba58f9f7)
+[关于项目介绍]()
 
-[demo](https://solui.cn/vue-h5-template/#/)建议手机端查看
+[demo]()建议手机端查看
 
 ### Node 版本要求
 
